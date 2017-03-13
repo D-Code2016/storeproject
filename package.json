@@ -1,0 +1,22 @@
+{
+  "name": "storeproject",
+  "version": "1.0.0",
+  "description": "webstore",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "team",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Code2016/storeproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/D-Code2016/storeproject/issues"
+  },
+  "homepage": "https://github.com/D-Code2016/storeproject#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
